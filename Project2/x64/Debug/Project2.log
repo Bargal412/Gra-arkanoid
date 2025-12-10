@@ -1,0 +1,7 @@
+﻿  glowny.cpp
+C:\Users\Barte\source\repos\Project2\Project2\glowny.cpp(1,1): warning C4335: wykryto format pliku Mac: skonwertuj plik źródłowy do formatu DOS lub formatu UNIX
+C:\Users\Barte\source\repos\Project2\Project2\glowny.cpp(1,10): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+C:\Users\Barte\source\repos\Project2\Project2\glowny.cpp(1,10): error C1083: Nie można otworzyć pliku dołącz: 'SFML/Graphics.hpp': No such file or directory
+  pilka.h
+C:\Users\Barte\source\repos\Project2\Project2\pilka.h(2,10): error C1083: Nie można otworzyć pliku dołącz: 'SFML/Graphics.hpp': No such file or directory
+  Generowanie kodu...
