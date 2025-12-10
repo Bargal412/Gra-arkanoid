@@ -1,1 +1,1 @@
-Proszę wejść w folder ,,Project 2"
+Proszę wejść w folder ,,Project2"
